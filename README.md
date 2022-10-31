@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Israt</h1>
 <h3 align="center">Here I am showing load test for a live site named BanglaPuzzle</h3>
 
-Tools & Language: Jmeter / Javascript / HTML / CSS
+Tools & Language: Jmeter /  HTML
 
 # 💫 About this test:
 🔭 Here I am showing two API's "contact" & "product" with number of threads 320 and rampup period 1 and loop count 1. When at a time 320 threads hits the site, then the error found 0.16%. 
