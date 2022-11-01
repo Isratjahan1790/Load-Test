@@ -1,4 +1,4 @@
-# Load-Testing Report
+# Load-Testing
 <h1 align="center">Hi 👋, I'm Israt</h1>
 <h3 align="center">Here I am showing load test for a live site named BanglaPuzzle</h3>
 
