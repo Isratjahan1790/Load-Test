@@ -8,10 +8,10 @@ Jmeter /  HTML / javascript
 🔭 I’ve completed performance test on frequently used API "contact" & "product" for BanglaPuzzle App.
 
 
-50  current Request with 1 Loop Count; Avg TPS for Total Samples is ~ 100 And Total Concurrent API requested: 100.
-100 current Rquest with 1 Loop Count; Avg TPS for Total Samples is ~ 200 And Total Concurrent API requested: 200.
-200 current Request with 1 Loop Count; Avg TPS for Total Samples is ~ 400 And Total Concurrent API requested: 400
-320 current Request with 1 Loop Count; Avg TPS for Total Samples is ~ 640 And Total Concurrent API requested: 640.
+50  current Request with 1 Loop Count; Avg TPS for Total Samples is ~ 100 And Total Concurrent API requested: 100.<br>
+100 current Rquest with 1 Loop Count; Avg TPS for Total Samples is ~ 200 And Total Concurrent API requested: 200.<br>
+200 current Request with 1 Loop Count; Avg TPS for Total Samples is ~ 400 And Total Concurrent API requested: 400.<br>
+320 current Request with 1 Loop Count; Avg TPS for Total Samples is ~ 640 And Total Concurrent API requested: 640.<br>
 
 While executed 320 current request, found 42 request connection timeout and error rate is 0.16%. 
 
